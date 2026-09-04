@@ -546,8 +546,6 @@ main section.right .dot{
     background: var(--color-danger); 
 }
 /*======================Media Quries===========================*/
-/* ====================== MEDIA QUERIES ====================== */
-
 
 /* ===== TABLET / iPAD PRO ===== */
 @media screen and (max-width: 1200px){
@@ -581,8 +579,6 @@ main section.right .dot{
         gap: 1.5rem;
     }
 
-    /* IMPORTANT:
-       Ye blank space ka main fix hai */
     main aside{
         height: auto;
     }
@@ -749,7 +745,6 @@ main section.right .dot{
         width: 8rem;
     }
 
-    /* David Kim */
     nav .profile-area h5{
         display: block;
         font-size: 0.75rem;

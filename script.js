@@ -33,10 +33,10 @@ new Chart(donutCtx, {
         datasets: [{
             data: [42, 28, 18, 12],
             backgroundColor: [
-                'rgb(255, 67, 54)',   // BTC → red (line chart se match)
-                'rgb(71, 7, 234)',    // ETH → blue/primary (line chart se match)
-                'rgb(34, 202, 75)',   // EUR → green
-                'rgb(160, 99, 245)'   // Cash → purple
+                'rgb(255, 67, 54)',   
+                'rgb(71, 7, 234)',   
+                'rgb(34, 202, 75)',  
+                'rgb(160, 99, 245)'  
             ],
             borderWidth: 0,
             hoverOffset: 6
