@@ -15,10 +15,10 @@ A modern and fully responsive **Crypto Admin Dashboard** built with HTML, CSS, a
 ## 📸 Project Screenshots
 
 ### ☀️ Light Theme
-![Crypto Admin Dashboard - Light Theme](screenshots/light-theme.png)
+![Crypto Admin Dashboard - Light Theme](screenshots/Dashboard light theme.png)
 
 ### 🌙 Dark Theme
-![Crypto Admin Dashboard - Dark Theme](screenshots/dark-theme.png)
+![Crypto Admin Dashboard - Dark Theme](screenshots/Dashboard dark theme.png)
 
 ---
 
@@ -177,13 +177,13 @@ Crypto-Admin-Dashboard/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/shehla-codex/crypto-Admin-dashboard.git
 ```
 
 ### 2. Open the Project
 
 ```bash
-cd Crypto-Admin-Dashboard
+cd crypto-Admin-Dashboard
 ```
 
 ### 3. Run the Project
@@ -211,7 +211,7 @@ This project was created to practice and demonstrate:
 
 ## 👩‍💻 Author
 
-**Saida Shehla**
+**Syeda shehla Shehla**
 
 Frontend Developer | HTML | CSS | JavaScript
 
