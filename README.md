@@ -210,7 +210,7 @@ This project was created to practice and demonstrate:
 
 ## 👩‍💻 Author
 
-**Syeda shehla Shehla**
+**Syeda  Shehla**
 
 Frontend Developer | HTML | CSS | JavaScript
 
