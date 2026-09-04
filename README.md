@@ -19,7 +19,7 @@ A modern and fully responsive **Crypto Admin Dashboard** built with HTML, CSS, a
 ![Dashboard Light Theme](screenshots/Dashboard%20light%20theme.png)
 
 ### 🌙 Dashboard - Dark Theme
-![Dashboard Black Theme](screenshots/Dashboard%20black%20theme.png)
+![Dashboard Black Theme](screenshots/Dashbord%20black%20theme.png)
 
 ## ✨ Features
 
