@@ -21,6 +21,11 @@ A modern and fully responsive **Crypto Admin Dashboard** built with HTML, CSS, a
 ### 🌙 Dashboard - Dark Theme
 ![Dashboard Black Theme](screenshots/Dashbord%20black%20theme.png)
 
+## 🔗 Live Demo
+
+> **[https://shehla-codex.github.io/crypto-Admin-dashboard/](https://shehla-codex.github.io/crypto-Admin-dashboard/)**
+
+---
 ## ✨ Features
 
 - 📊 Interactive BTC & ETH Line Chart
