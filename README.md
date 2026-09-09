@@ -13,15 +13,15 @@ A modern and fully responsive **Crypto Admin Dashboard** built with HTML, CSS, a
 -->
 
 
-## 📸 Project Screenshots
+## 📁 Project Screenshots
 
-### ☀️ Dashboard - Light Theme
-![Dashboard Light Theme](screenshots/Dashboard%20light%20theme.png)
+### 🌤️ Dashboard - Light Theme
+![Dashboard Light Theme](screenshots/dashboard-light-theme.png)
 
 ### 🌙 Dashboard - Dark Theme
-![Dashboard Black Theme](screenshots/Dashbord%20black%20theme.png)
+![Dashboard Dark Theme](screenshots/dashbord-dark-theme.png)
 
-## 🔗 Live Demo
+## 🎥 Live Demo
 
 > **[https://shehla-codex.github.io/crypto-Admin-dashboard/](https://shehla-codex.github.io/crypto-Admin-dashboard/)**
 
