@@ -1,27 +1,13 @@
 # 💰 Crypto Admin Dashboard
 
 A modern and fully responsive **Crypto Admin Dashboard** built with HTML, CSS, and JavaScript.
-
-<!--
-  📸 PROJECT SCREENSHOTS
-  Add your screenshots in the same project folder and replace the
-  filenames below with your actual screenshot filenames.
-
-  Example:
-  screenshots/light-theme.png
-  screenshots/dark-theme.png
--->
-
-
-## 📁 Project Screenshots
-
 ## 📸 Screenshots
 
 ### Dashboard Light Theme
-![Light Theme](./screenshots/light-theme.png)
+![Dashboard Light Theme](./screenshots/light-theme.png)
 
-### Dashboard Black Theme
-![Dark Theme](./screenshots/dark-theme.png)
+### Dashboard Dark Theme
+![Dashboard Dark Theme](./screenshots/dark-theme.png)
 
 ## 🎥 Live Demo
 
